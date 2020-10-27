@@ -1,5 +1,7 @@
 import random
-
+#oooooo
+def ok():
+    print('ok')
 def choose_one():
     one_team = [1, 2, 3, 4, 5, 6]
     choose = random.choice(one_team)
